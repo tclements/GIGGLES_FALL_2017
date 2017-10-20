@@ -1,1 +1,3 @@
-# GIGGLES_FALL_2017
+# GIGGLES FALL 2017
+
+GIGGLES Presentation October 24, 2017
